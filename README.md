@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janet-phan
 - 👀 I’m interested in coding, videogames, streaming, sewing, stickers, cute things, and cats!
-- 🌱 I’m currently learning pyhon
+- 🌱 I’m currently learning python, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on portfolio projects!
 - 📫 How to reach me ...
 
