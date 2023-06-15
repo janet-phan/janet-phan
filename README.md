@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, videogames, streaming, sewing, stickers, cute things, and cats!
 - 🌱 I’m currently learning python, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on portfolio projects!
-- 📫 How to reach me ...
+- 📫 How to reach me - find me on Discord: .janet
 
 <!---
 janet-phan/janet-phan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
