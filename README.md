@@ -55,7 +55,7 @@
   
 - Instagram [@adevgirl](https://www.instagram.com/adevgirl)
 
-- [LinkedIn](https://www.linkedin.com/janet-phan)
+- [LinkedIn](https://www.linkedin.com/in/janet-phan)
 
 - [Email](mailto:devgirljanet@gmail.com)
 
