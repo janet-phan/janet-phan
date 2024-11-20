@@ -6,12 +6,13 @@
 - 💞️ I’m looking to collaborate on cool things :)
 
 ## Education
-**CodeSquad** Fullstack Coding Bootcamp
-**SheCodes** Fullstack Coding Bootcamp
-**App Academy** Fullstack Coding Bootcamp
-**Mate Academy** Fullstack Coding Bootcamp
-**University of the People** Bachelors of Computer Science
-**Golden West College** Associates of Fine & Applied Arts, Graphic Design
+**CodeSquad** - Fullstack Coding Bootcamp <br/>
+**University of the People** - Bachelors of Computer Science<br/>
+**Golden West College** - Associates of Fine & Applied Arts, Graphic Design<br/>
+**SheCodes** - Fullstack Coding Bootcamp<br/>
+**App Academy** - Fullstack Coding Bootcamp<br/>
+**Mate Academy** - Fullstack Coding Bootcamp<br/>
+
 
 
 *Tech Stack*
