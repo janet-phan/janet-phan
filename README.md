@@ -2,13 +2,19 @@
 
 ## Full Stack Developer
 
-- 🌱 I’m trying to get my foot into the tech door
+- 🌱 I’m growing my tech footprint
 - 💞️ I’m looking to collaborate on cool things :)
 
 ## Education
-**CodeSquad** Jan 2024 -  May 2024
+**CodeSquad** Fullstack Coding Bootcamp
+**SheCodes** Fullstack Coding Bootcamp
+**App Academy** Fullstack Coding Bootcamp
+**Mate Academy** Fullstack Coding Bootcamp
+**University of the People** Bachelors of Computer Science
+**Golden West College** Associates of Fine & Applied Arts, Graphic Design
 
-*Full Stack Developer*
+
+*Tech Stack*
 - HTML
 - CSS
 - JavaScript
@@ -17,27 +23,13 @@
 - Express
 - MongoDB/Mongoose
 - API
-
-**SheCodes** September 2023 - Present
-
-*Full Stack Developer*
-- HTML
-- CSS
-- JavaScript
-- VSCode
-- API
-- GitHub
+- Github
 - Bootstrap
 - Flexbox
 - SEO
 - Responsive
 - React.js
-  
-**Reskill Americans** August 2022 - April 2023
-*Full Stack Developer*
-- HTML
-- CSS
-- JavaScript
+- VS Code
 
 ## Certificates
 - Coursera - Foundations of Cybersecurity
