@@ -2,6 +2,7 @@
 
 ## Full Stack Developer
 
+- 🌸Currently seeking remote fullstack developer / front end developer jobs🌸
 - 🌱 I’m growing my tech footprint
 - 💞️ I’m looking to collaborate on cool things :)
 
@@ -9,6 +10,7 @@
 **CodeSquad** - Fullstack Coding Bootcamp <br/>
 **University of the People** - Bachelors of Computer Science<br/>
 **Golden West College** - Associates of Fine & Applied Arts, Graphic Design<br/>
+**Udacity** - Nanodegree in Programming<br />
 **SheCodes** - Fullstack Coding Bootcamp<br/>
 **App Academy** - Fullstack Coding Bootcamp<br/>
 **Mate Academy** - Fullstack Coding Bootcamp<br/>
