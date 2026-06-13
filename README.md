@@ -33,6 +33,7 @@
 - Responsive
 - React.js
 - VS Code
+- PHP
 
 ## Certificates
 - Coursera - Foundations of Cybersecurity
