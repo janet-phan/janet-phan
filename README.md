@@ -34,6 +34,8 @@
 - React.js
 - VS Code
 - PHP
+- Python
+- Pygames
 
 ## Certificates
 - Coursera - Foundations of Cybersecurity
