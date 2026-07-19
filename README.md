@@ -2,9 +2,11 @@
 
 ## Full Stack Developer
 
-- 🌸Currently seeking remote fullstack developer / front end developer jobs🌸
+- 🌸Currently seeking remote fullstack developer / front end developer / application developer jobs🌸
 - 🌱 I’m growing my tech footprint
 - 💞️ I’m looking to collaborate on cool things :)
+- 💻 Coding before Vibe Coding was a thing
+- 🎮🕹️👾 Professional Vibe Coder - Check out some of my applications and projects I'm working on at [PixelPaws Studio](https://pixelpaws.studio)
 
 ## Education
 **CodeSquad** - Fullstack Coding Bootcamp <br/>
